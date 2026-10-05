@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Emad Hamed
 
-<!--
-**emad-hamed/emad-hamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Backend Developer
 
-Here are some ideas to get you started:
+I'm an Artificial Intelligence and Data Science graduate with a strong interest in backend development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have hands-on experience with Python, Django, and Django REST Framework through academic and personal projects, with a focus on building RESTful APIs, authentication, and working with databases.
+
+## Technologies & Tools
+
+- Python
+- Django
+- Django REST Framework
+- REST APIs
+- SQL & SQLite
+- Git & GitHub
+- Postman
+
+## Currently Learning
+
+- Deepening my knowledge of backend development with Django and Django REST Framework
+- CompTIA Network+ fundamentals
+- AWS Cloud fundamentals
+
+## Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/emad-hamed-alzeit
